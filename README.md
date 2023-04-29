@@ -1,3 +1,4 @@
-# Hi I'm Priyanshu Thakur. I'm learning web development.
+# Hi I'm Priyanshu Thakur. 
 
-##I created my 1st web page. 
+## I'm learning web development.
+## I created my 1st web page. 
